@@ -26,9 +26,8 @@
                 android:layout_height="match_parent"
                 android:background="@android:color/transparent"
                 android:text="@string/number_1"
-                android:textColor="@android:color/white"
-                android:textSize="18sp"
-                android:textStyle="bold"
+                android:textColor="#d2d1d1"
+                android:textSize="24sp"
                 android:typeface="serif" />
 
             <Button
@@ -37,9 +36,8 @@
                 android:layout_height="match_parent"
                 android:background="@android:color/transparent"
                 android:text="@string/number_2"
-                android:textColor="@android:color/white"
-                android:textSize="18sp"
-                android:textStyle="bold"
+                android:textColor="#d2d1d1"
+                android:textSize="24sp"
                 android:typeface="serif" />
 
             <Button
@@ -48,9 +46,8 @@
                 android:layout_height="match_parent"
                 android:background="@android:color/transparent"
                 android:text="@string/number_3"
-                android:textColor="@android:color/white"
-                android:textSize="18sp"
-                android:textStyle="bold"
+                android:textColor="#d2d1d1"
+                android:textSize="24sp"
                 android:typeface="serif" />
         </TableRow>
 
@@ -64,9 +61,8 @@
                 android:layout_height="match_parent"
                 android:background="@android:color/transparent"
                 android:text="@string/number_4"
-                android:textColor="@android:color/white"
-                android:textSize="18sp"
-                android:textStyle="bold"
+                android:textColor="#d2d1d1"
+                android:textSize="24sp"
                 android:typeface="serif" />
 
             <Button
@@ -75,9 +71,8 @@
                 android:layout_height="match_parent"
                 android:background="@android:color/transparent"
                 android:text="@string/number_5"
-                android:textColor="@android:color/white"
-                android:textSize="18sp"
-                android:textStyle="bold"
+                android:textColor="#d2d1d1"
+                android:textSize="24sp"
                 android:typeface="serif" />
 
             <Button
@@ -86,9 +81,8 @@
                 android:layout_height="match_parent"
                 android:background="@android:color/transparent"
                 android:text="@string/number_6"
-                android:textColor="@android:color/white"
-                android:textSize="18sp"
-                android:textStyle="bold"
+                android:textColor="#d2d1d1"
+                android:textSize="24sp"
                 android:typeface="serif" />
         </TableRow>
 
@@ -102,9 +96,8 @@
                 android:layout_height="wrap_content"
                 android:background="@android:color/transparent"
                 android:text="@string/number_7"
-                android:textColor="@android:color/white"
-                android:textSize="18sp"
-                android:textStyle="bold"
+                android:textColor="#d2d1d1"
+                android:textSize="24sp"
                 android:typeface="serif" />
 
             <Button
@@ -113,9 +106,8 @@
                 android:layout_height="wrap_content"
                 android:background="@android:color/transparent"
                 android:text="@string/number_8"
-                android:textColor="@android:color/white"
-                android:textSize="18sp"
-                android:textStyle="bold"
+                android:textColor="#d2d1d1"
+                android:textSize="24sp"
                 android:typeface="serif" />
 
             <Button
@@ -124,9 +116,8 @@
                 android:layout_height="wrap_content"
                 android:background="@android:color/transparent"
                 android:text="@string/number_9"
-                android:textColor="@android:color/white"
-                android:textSize="18sp"
-                android:textStyle="bold"
+                android:textColor="#d2d1d1"
+                android:textSize="24sp"
                 android:typeface="serif" />
 
         </TableRow>
@@ -141,9 +132,8 @@
                 android:layout_height="wrap_content"
                 android:background="@android:color/transparent"
                 android:text="@string/number_del"
-                android:textColor="@android:color/white"
-                android:textSize="18sp"
-                android:textStyle="bold"
+                android:textColor="#d2d1d1"
+                android:textSize="24sp"
                 android:typeface="serif" />
 
             <Button
@@ -152,9 +142,8 @@
                 android:layout_height="wrap_content"
                 android:background="@android:color/transparent"
                 android:text="@string/number_0"
-                android:textColor="@android:color/white"
-                android:textSize="18sp"
-                android:textStyle="bold"
+                android:textColor="#d2d1d1"
+                android:textSize="24sp"
                 android:typeface="serif" />
 
         </TableRow>

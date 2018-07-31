@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">PTube</string>
 
-    <string name="number_del">Delete</string>
+    <string name="number_del">⌫</string>
     <string name="number_0">0</string>
     <string name="number_1">1</string>
     <string name="number_2">2</string>

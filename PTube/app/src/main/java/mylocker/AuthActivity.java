@@ -11,7 +11,10 @@ import fragement.CreateUserFragment;
 import fragement.LoginUserFragment;
 import mylocker.bk.com.ptube.R;
 
-public class AuthActivity extends AppCompatActivity {
+public class
+
+
+AuthActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
